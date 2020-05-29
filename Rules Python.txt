@@ -1,0 +1,20 @@
+* Must start with letter or underscore_
+* Must consists of letters, numbers, and underscores
+* Case sensitive
+* Reminder% and Power ** , Quotient //
+* Operator precedence = Parenthesis > Power > Multiplication > Addition > Left to Right
+
+* Python knows '+' means addition for numeric and concatenate for string.
+* String conversion int(), float()
+* Comments #
+* Puzzle for word in words, for silce in pizza
+
+CH3
+* == Is this equal to
+
+
+
+
+
+
+
